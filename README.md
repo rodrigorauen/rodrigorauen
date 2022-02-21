@@ -7,7 +7,7 @@
 🎮 Gosto games, música, pescar e cozinhar<br/>
 🧠 HTML||CSS||JS||React Native||ReactJS||Firebase||Dart||Flutter||Scrum<br/>
 Inglês / English: Avançado / C1 (Certificado por LingoPass)<br/>
-<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">: rodrigorauen123@gmail.com<br/>
+<img alt="Gmail" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">: rodrigorauen123@gmail.com<br/>
 
 
 <div>
