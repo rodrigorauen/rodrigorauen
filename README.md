@@ -2,7 +2,7 @@
 
 🇧🇷
 💻 Desenvolvedor Front-End e Mobile / Front-End and Mobile Developer<br/>
-🏠 Xanxerê-Sc<br/>
+🏠 Xanxerê-SC<br/>
 ⏰ 27 anos<br/>
 🎮 Gosto games, música, anime, amigos, pescar e cozinhar<br/>
 🧠 HTML || CSS || JS || React Native || ReactJS || Firebase || Dart || Flutter || Scrum<br/>
