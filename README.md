@@ -7,17 +7,17 @@
 🎮 Gosto games, música, pescar e cozinhar<br/>
 🧠 HTML||CSS||JS||React Native||ReactJS||Firebase||Dart||Flutter||Scrum<br/>
 Inglês / English: Avançado / C1 (Certificado por LingoPass)<br/>
-<img alt="Gmail" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">: rodrigorauen123@gmail.com<br/>
+<img alt="Gmail" height="30" width="60" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">: rodrigorauen123@gmail.com<br/>
 
 
 <div>
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="ReactNative" height="30" width="40" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="ReactNative" height="30" width="60" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="ReactJS" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="ReactJS" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Flutter" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img alt="Styled Components" height="30" width="50" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img alt="Styled Components" height="30" width="60" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/rodrigorauen)
