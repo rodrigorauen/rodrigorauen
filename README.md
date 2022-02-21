@@ -22,9 +22,7 @@ rodrigorauen123@gmail.com<br/>
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/rodrigorauen)
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-      andrade-rauen-02687a20b/)
-
-
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-andrade-rauen-02687a20b/)
 
 [![Rodrigo Rauen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorauen&show_icons=true&theme=dark)](https://github.com/rodrigorauen/rodrigorauen/github-readme-stats)<br/>
 
