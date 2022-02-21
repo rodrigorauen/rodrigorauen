@@ -7,7 +7,7 @@
 🎮 Gosto games, música, anime, amigos, pescar e cozinhar<br/>
 🧠 HTML || CSS || JS || React Native || ReactJS || Firebase || Dart || Flutter || Scrum<br/>
 Inglês / English: Avançado / C1 (Certificado por LingoPass)<br/>
-rodrigorauen123@gmail.com<br/>
+email: rodrigorauen123@gmail.com<br/>
 
 
 <div>
