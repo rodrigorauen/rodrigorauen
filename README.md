@@ -19,11 +19,10 @@ rodrigorauen123@gmail.com<br/>
   <img alt="Flutter" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img alt="Styled Components" height="30" width="60" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div><br/>
-<div>
+
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/rodrigorauen)
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-       andrade-rauen-02687a20b/)
-</div><br/>
 
 
 
