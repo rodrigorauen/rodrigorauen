@@ -8,7 +8,7 @@
 🧠 HTML || CSS || JS || React Native || ReactJS || Firebase || Dart || Flutter || Scrum<br/>
 Inglês / English: Avançado / C1 (Certificado por LingoPass)<br/>
 email: rodrigorauen123@gmail.com<br/>
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-andrade-rauen-02687a20b/)
 
 <div>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,8 +19,6 @@ email: rodrigorauen123@gmail.com<br/>
   <img alt="Styled Components" height="30" width="80" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img alt="Flutter" height="30" width="70" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div><br/>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-andrade-rauen-02687a20b/)
 
 [![Rodrigo Rauen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorauen&show_icons=true&theme=dark)](https://github.com/rodrigorauen/rodrigorauen/github-readme-stats)<br/>
 
