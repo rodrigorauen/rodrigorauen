@@ -21,6 +21,7 @@ rodrigorauen123@gmail.com<br/>
 </div><br/>
 <div>
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/rodrigorauen)
+  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-       andrade-rauen-02687a20b/)
 </div><br/>
 
