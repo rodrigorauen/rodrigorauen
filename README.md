@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá, me Chamo Rodrigo. Muito prazer! 👋
 
-<!--
-**rodrigorauen/rodrigorauen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷
+💻Desenvolvedor Front-End e Mobile.
+🏠Xanxerê-Sc.
+⏰27 anos.
+🎮Gosto muito de games e pescar
+🧠HTML||CSS||JS||React Native||ReactJS||Firebase||Dart||Flutter||Scrum.
+Inglês: Avançado/C1 (Certificado por LingoPass).
+<code><img height= "20"src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/rodrigorauen)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-andrade-rauen-02687a20b/)
+
+[![Rodrigo Rauen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorauen&show_icons=true&theme=dark)](https://github.com/rodrigorauen/rodrigorauen/github-readme-stats)
+
+- Obrigado por visitar/Thanks for visiting.
