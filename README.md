@@ -27,4 +27,4 @@ rodrigorauen123@gmail.com<br/>
 
 - Obrigado por visitar / Thanks for visiting.
 
-<img src=https://tenor.com/view/outrun-gaming-michael-knife-follow-the-knife-vaporwave-gif-17188466 width="150">
+<div class="tenor-gif-embed" data-postid="17188466" data-share-method="host" data-aspect-ratio="1.69312" data-width="100%"><a href="https://tenor.com/view/outrun-gaming-michael-knife-follow-the-knife-vaporwave-gif-17188466">Outrun Gaming GIF</a>from <a href="https://tenor.com/search/outrun-gifs">Outrun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
