@@ -2,11 +2,11 @@
 
 🇧🇷
 💻 Desenvolvedor Front-End e Mobile / Front-End and Mobile Developer<br/>
-🏠 Xanxerê-Sc
-⏰ 27 anos
-🎮 Gosto muito de games e pescar
-🧠 HTML||CSS||JS||React Native||ReactJS||Firebase||Dart||Flutter||Scrum
-Inglês: Avançado/C1 (Certificado por LingoPass)
+🏠 Xanxerê-Sc<br/>
+⏰ 27 anos<br/>
+🎮 Gosto muito de games e pescar<br/>
+🧠 HTML||CSS||JS||React Native||ReactJS||Firebase||Dart||Flutter||Scrum<br/>
+Inglês: Avançado/C1 (Certificado por LingoPass)<br/>
 
 <code><img height= "20"src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
