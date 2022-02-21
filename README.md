@@ -1,7 +1,7 @@
 ### Olá, me Chamo Rodrigo. Muito prazer! / Hello, my name is Rodrigo. Nice to meet you! 👋
 
 🇧🇷
-💻 Desenvolvedor Front-End e Mobile / Front-End and Mobile Developer
+💻 Desenvolvedor Front-End e Mobile / Front-End and Mobile Developer<br/>
 🏠 Xanxerê-Sc
 ⏰ 27 anos
 🎮 Gosto muito de games e pescar
