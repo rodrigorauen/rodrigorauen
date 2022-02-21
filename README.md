@@ -6,7 +6,7 @@
 ⏰ 27 anos<br/>
 🎮 Gosto games, música, anime, amigos, pescar e cozinhar<br/>
 🧠 HTML || CSS || JS || React Native || ReactJS || Firebase || Dart || Flutter || Scrum<br/>
-Inglês / English: Avançado / C1 (Certificado por LingoPass)<br/>
+Inglês / English: Avançado / C1 (Certificado por LingoPass) / Advanced(C1)<br/>
 email: rodrigorauen123@gmail.com<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/rodrigo-de-andrade-rauen-02687a20b/)
 
