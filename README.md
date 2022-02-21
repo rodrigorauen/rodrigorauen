@@ -4,7 +4,7 @@
 💻 Desenvolvedor Front-End e Mobile / Front-End and Mobile Developer<br/>
 🏠 Xanxerê-Sc<br/>
 ⏰ 27 anos<br/>
-🎮 Gosto games, música, pescar e cozinhar<br/>
+🎮 Gosto games, música, anime, amigos, pescar e cozinhar<br/>
 🧠 HTML || CSS || JS || React Native || ReactJS || Firebase || Dart || Flutter || Scrum<br/>
 Inglês / English: Avançado / C1 (Certificado por LingoPass)<br/>
 rodrigorauen123@gmail.com<br/>
@@ -27,4 +27,4 @@ rodrigorauen123@gmail.com<br/>
 
 - Obrigado por visitar / Thanks for visiting.
 
-![Cruising animation](https://c.tenor.com/h6b8DovmYL0AAAAd/outrun-gaming.gif)
+![Cruising animation](https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif)
