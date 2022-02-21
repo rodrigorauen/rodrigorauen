@@ -8,7 +8,8 @@
 🧠 HTML||CSS||JS||React Native||ReactJS||Firebase||Dart||Flutter||Scrum<br/>
 Inglês: Avançado/C1 (Certificado por LingoPass)<br/>
 
-<img height="20"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<code><img height="20"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 <code><img height="20"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
 <code><img height="20"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code><br/>
