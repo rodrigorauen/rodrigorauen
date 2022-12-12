@@ -4,7 +4,6 @@
 💻 Desenvolvedor Front-End e Mobile / Front-End and Mobile Developer<br/>
 🏠 Xanxerê-SC<br/>
 ⏰ 1994<br/>
-🎮 Gosto games, música, anime, amigos, pescar e cozinhar<br/>
 🧠 HTML || CSS || JS || React Native || ReactJS || Firebase || Dart || Flutter || Scrum<br/>
 Inglês / English: Avançado / C1 (Certificado por LingoPass) / Advanced(C1)<br/>
 email: rodrigorauen123@gmail.com<br/>
