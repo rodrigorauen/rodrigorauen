@@ -20,8 +20,3 @@ email: rodrigorauen123@gmail.com<br/>
 </div><br/>
 
 [![Rodrigo Rauen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorauen&show_icons=true&theme=dark)](https://github.com/rodrigorauen/rodrigorauen/github-readme-stats)<br/>
-
-
-- Obrigado por visitar / Thanks for visiting.
-
-![Cruising animation](https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif)
